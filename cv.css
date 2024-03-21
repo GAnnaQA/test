@@ -1,0 +1,17 @@
+.bg_color {
+    background: linear-gradient(to top, rgb(250, 250, 250), rgb(197, 195, 195) );
+}
+.italic {
+    font-style: italic;
+}
+.bold {
+    font-weight: bold;
+}
+.navbar-dark{
+    background-color:rgb(56, 55, 55)
+}
+.indent { 
+    text-indent: 50px; }
+.large {
+    font-size: large;
+}
